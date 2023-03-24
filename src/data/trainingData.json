@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "input": "This is how you can make passive income",
+      "isSpam": true
+    },
+    {
+      "input": "Hey man, do you have time tomorrow to go to the gym?",
+      "isSpam": false
+    }
+  ]
+}
